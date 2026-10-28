@@ -1,0 +1,21 @@
+[project]
+name = "ds-week1"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+authors = [
+    { name = "cruqza", email = "mugendierickson@gmail.com" }
+]
+requires-python = ">=3.14"
+dependencies = [
+    "matplotlib>=3.11.2",
+    "pandas>=3.1.0",
+    "requests>=2.34.2",
+]
+
+[project.scripts]
+ds-week1 = "ds_week1:main"
+
+[build-system]
+requires = ["uv_build>=0.12.23,<0.13.0"]
+build-backend = "uv_build"
