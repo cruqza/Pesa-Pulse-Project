@@ -1,7 +1,4 @@
-"""
-Day 1 - API Data Analysis Using Python Structures
-Squad Python Specialization - Data Science, AI & Analytics
-"""
+
 import os
 import matplotlib 
 matplotlib.use("Agg")
