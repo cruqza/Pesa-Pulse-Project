@@ -1,7 +1,6 @@
-# ds-week1
+# Data Analysis Using Python, Pandas 
 
-Day 1 — API Data Analysis Using Python Structures
-Squad Python Specialization — Data Science, AI & Analytics.
+
 
 A small script that fetches a list of customers from the JSONPlaceholder API,
 works through the data with plain Python structures (dicts, lists, sets), and
